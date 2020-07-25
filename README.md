@@ -10,6 +10,8 @@ Hey, I am Sagrario, a Mexican Computer Engineer graduate from the [IPN](https://
 
 :zap: Fun facts:
 - :baby_symbol: My first contact with a computer was at the age of four, it was like my brother's unpaid :trollface: assistant, writing his handwritten source code on a Commodore 64.
+![1993](https://github.com/smmd/smmd/blob/master/images/1993.jpg?raw=true)
+
 - :ear: Sometimes I try to be a speaker and give talks at technology events.
 
 :heart: I like to:
