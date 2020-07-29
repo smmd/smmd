@@ -1,6 +1,7 @@
 # Sagrario Meneses
 Hey, I am Sagrario, a Mexican Computer Engineer graduate from the [IPN](https://www.ipn.mx/).
 
+![myoctocat](https://github.com/smmd/smmd/blob/master/images/myoctocat.jpeg?raw=true)
 
 :telescope: I am currently working on an e-commerce in LATAM [Linio](https://github.com/LinioIT).
 
