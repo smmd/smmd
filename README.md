@@ -3,7 +3,9 @@ Hey, I am Sagrario, a Mexican Computer Engineer graduate from the [IPN](https://
 
 ![myoctocat](https://github.com/smmd/smmd/blob/master/images/myoctocat.jpeg?raw=true)
 
-:telescope: I am currently working on an e-commerce in LATAM [Linio](https://github.com/LinioIT).
+:telescope: I am a senior software engineer at [Wizeline](https://www.wizeline.com/).
+
+:office: I have experience working for e-commerce platforms.
 
 :seedling: I am learning Go, Rust, Software Architecture, and some DevOps processes.
 
