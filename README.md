@@ -1,15 +1,18 @@
 # Sagrario Meneses
-Hey, I am Sagrario, a Mexican Computer Engineer graduate from the [IPN](https://www.ipn.mx/).
+Hey, I am Sag, a Mexican passionate about software development.
 
-![myoctocat](https://github.com/smmd/smmd/blob/master/images/myoctocat.jpeg?raw=true)
+![myoctocat](https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png?raw=true)
 
-:telescope: I am a senior software engineer at [Wizeline](https://www.wizeline.com/).
+:pencil: Graduate from the [IPN](https://www.ipn.mx/).
 
-:office: I have experience working for e-commerce platforms.
+:telescope: Senior Software Engineer at [Wizeline](https://www.wizeline.com/).
 
-:seedling: I am learning Go, Rust, Software Architecture, and some DevOps processes.
+:office: Experience working for e-commerce platforms.
 
-:dancers: I am looking to collaborate on open source projects.
+:seedling: Main interest: Backend Engineering.
+
+:dancers: Other interests: Software Architecture, Open Source, Site Reliability Engineering, Write.
+- :eyes: You can read some of my posts in [dev.to](https://dev.to/smmd)
 
 :zap: Fun facts:
 - :ear: Sometimes I try to be a speaker and give talks at technology events.
@@ -18,10 +21,11 @@ Hey, I am Sagrario, a Mexican Computer Engineer graduate from the [IPN](https://
 ![1993](https://github.com/smmd/smmd/blob/master/images/smmd-1993.jpg?raw=true)
 
 :heart: I like to:
-- :computer: Develop software
-- :rocket: Learn new things
-- :books: Read
-- :tv: Watch anime
+- :computer: Develop software.
+- :rocket: Learn new things.
+- :books: Read.
+- :tv: Watch anime.
+- :trollface: Create memes.
 
             /|  /|
            ,''--''.
