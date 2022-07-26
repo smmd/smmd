@@ -1,9 +1,9 @@
 # Sagrario Meneses
 Hey, I am Sag, a Mexican passionate about software development.
 
-<img src="https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png" width="200" height="200" />
-
-![myoctocat](https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png?raw=true)
+<p align="center">
+    <img src="https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png" width="450" height="450" />
+</p>
 
 :pencil: Graduate from the [IPN](https://www.ipn.mx/).
 
@@ -21,7 +21,9 @@ Hey, I am Sag, a Mexican passionate about software development.
     * :eyes: You can check that content on this [youtube list](https://www.youtube.com/playlist?list=PLri-S6HScAalSV0fDqFIXpfoVs9rEBH3Z)
 - :baby_symbol: My first contact with a computer was at the age of four, I was like my brother's unpaid assistant, migrating his handwritten source code into a [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500).
 
-![1993](https://github.com/smmd/smmd/blob/master/images/smmd-1993.jpg?raw=true)
+<p align="center">
+    <img src="https://github.com/smmd/smmd/blob/master/images/smmd-1993.jpg" width="450"/>
+</p>
 
 :heart: I like to:
 - :computer: Develop software.
