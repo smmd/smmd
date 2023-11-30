@@ -2,8 +2,8 @@
 Hey, I am Sag, a Mexican passionate about software development.
 
 <p align="center">
-    <img src="https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png" width="450" height="450" />
-    <img src="https://github.com/smmd/smmd/blob/master/images/myplaymobil.jpeg" width="450" height="450" />
+    <img src="https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png" width="350" height="350" />
+    <img src="https://github.com/smmd/smmd/blob/master/images/myplaymobil.jpeg" width="350" height="350" />
 </p>
 
 :pencil: Graduate from the [IPN](https://www.ipn.mx/).
