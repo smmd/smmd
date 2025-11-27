@@ -1,42 +1,81 @@
-# Sagrario Meneses
-Hey, I am Sag, a Mexican passionate about software development.
+<div align="center">
+
+# 👋 Hello, I'm Sagrario Meneses
+
+### 💻 Senior Software Engineer | 🇲🇽 Mexican | 🚀 Backend Engineering Enthusiast
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/smmd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLri-S6HScAalSV0fDqFIXpfoVs9rEBH3Z)
+
+</div>
+
+---
+
+## 🎨 About Me
 
 <p align="center">
-    <img src="https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png" width="350" height="350" />
-    <img src="https://github.com/smmd/smmd/blob/master/images/myplaymobil.jpeg" width="350" height="350" />
+    <img src="https://github.com/smmd/smmd/blob/master/images/myoctocat-2022.png" width="300" height="300" />
+    <img src="https://github.com/smmd/smmd/blob/master/images/myplaymobil.jpeg" width="300" height="300" />
 </p>
 
-:pencil: Graduate from the [IPN](https://www.ipn.mx/).
+Hey there! I'm **Sag**, a Mexican software engineer passionate about building robust and scalable backend systems. I love diving deep into software architecture, contributing to open source, and sharing knowledge with the tech community.
 
-:telescope: Currently working as Senior Software Engineer.
+---
 
-:office: Experience working for e-commerce platforms.
+## 🎓 Education & Experience
 
-:seedling: Main interest: Backend Engineering.
+- 🎓 **Graduate** from [IPN](https://www.ipn.mx/) (Instituto Politécnico Nacional)
+- 💼 **Senior Software Engineer** with experience in e-commerce platforms
+- 🔧 **Main Focus**: Backend Engineering
+- 🌱 **Interests**: Software Architecture, Open Source, Site Reliability Engineering, Technical Writing
 
-:dancers: Other interests: Software Architecture, Open Source, Site Reliability Engineering, Write.
-- :eyes: You can read some of my posts in [dev.to](https://dev.to/smmd)
+---
 
-:zap: Fun facts:
-- :ear: Sometimes I try to be a speaker and give talks at technology events, and some amazing friends have interviewed me on their channels.
-    * :eyes: You can check that content on this [youtube list](https://www.youtube.com/playlist?list=PLri-S6HScAalSV0fDqFIXpfoVs9rEBH3Z)
-- :baby_symbol: My first contact with a computer was at the age of four, I was like my brother's unpaid assistant, migrating his handwritten source code into a [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500).
+## 📝 Writing & Speaking
 
-<p align="center">
-    <img src="https://github.com/smmd/smmd/blob/master/images/smmd-1993.jpg" width="450"/>
-</p>
+- ✍️ Read my technical articles on [dev.to](https://dev.to/smmd)
+- 🎤 Speaker at technology events and conferences
+- 🎥 Check out my interviews and talks on [YouTube](https://www.youtube.com/playlist?list=PLri-S6HScAalSV0fDqFIXpfoVs9rEBH3Z)
 
-:heart: I like to:
-- :computer: Develop software.
-- :rocket: Learn new things.
-- :books: Read.
-- :tv: Watch anime.
-- :trollface: Create memes.
+---
 
+## ⚡ Fun Facts
+
+<div align="center">
+    <img src="https://github.com/smmd/smmd/blob/master/images/smmd-1993.jpg" width="400"/>
+</div>
+
+- 🎤 I occasionally speak at technology events and have been interviewed by amazing friends in the tech community
+- 👶 My first contact with a computer was at the age of four! I was my brother's unpaid assistant, migrating his handwritten source code into a [Commodore Amiga 500](https://en.wikipedia.org/wiki/Amiga_500) 🖥️
+
+---
+
+## ❤️ What I Love
+
+<div align="center">
+
+| 💻 | 🚀 | 📚 | 📺 | 😄 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Develop Software** | **Learn New Things** | **Read** | **Watch Anime** | **Create Memes** |
+
+</div>
+
+---
+
+<div align="center">
+
+```
             /|  /|
            ,''--''.
           : ( )( ) :
-         ,' _____  `.     /|/|
-         : /^ ^ ^\  :   /00  :    _//|
-         : ^ ^ ^ ^  :  |/^^\ :   /oo :
-         `._m____m_,'   \m_m_:   \mm_:
+                   ,' _____  `.     /|/|
+                    : /^ ^ ^\  :   /00  :    _//|
+                    : ^ ^ ^ ^  :  |/^^\ :   /oo :
+                    `._m____m_,'   \m_m_:   \mm_:
+```
+
+**Thanks for visiting! Feel free to reach out! 👋**
+
+⭐️ From [smmd](https://github.com/smmd)
+
+</div>
