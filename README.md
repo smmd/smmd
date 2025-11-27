@@ -4,6 +4,7 @@
 
 ### 💻 Senior Software Engineer | 🇲🇽 Mexican | 🚀 Backend Engineering Enthusiast
 
+[![Website](https://img.shields.io/badge/Website-sagrar.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sagrar.io)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/smmd)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLri-S6HScAalSV0fDqFIXpfoVs9rEBH3Z)
 
@@ -68,10 +69,10 @@ Hey there! I'm **Sag**, a Mexican software engineer passionate about building ro
             /|  /|
            ,''--''.
           : ( )( ) :
-                   ,' _____  `.     /|/|
-                    : /^ ^ ^\  :   /00  :    _//|
-                    : ^ ^ ^ ^  :  |/^^\ :   /oo :
-                    `._m____m_,'   \m_m_:   \mm_:
+         ,' _____  `.     /|/|
+         : /^ ^ ^\  :   /00  :    _//|
+         : ^ ^ ^ ^  :  |/^^\ :   /oo :
+         `._m____m_,'   \m_m_:   \mm_:
 ```
 
 **Thanks for visiting! Feel free to reach out! 👋**
