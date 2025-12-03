@@ -55,9 +55,9 @@ Hey there! I'm **Sag**, a Mexican software engineer passionate about building ro
 
 <div align="center">
 
-| 💻 | 🚀 | 📚 | 📺 | 😄 |
-|:---:|:---:|:---:|:---:|:---:|
-| **Develop Software** | **Learn New Things** | **Read** | **Watch Anime** | **Create Memes** |
+| 💻 | 🚀 | 📚 | 📺 | 📝 |
+|:---:|:---:|:---:|:---:|:---------:|
+| **Develop Software** | **Learn New Things** | **Read** | **Watch Anime** | **Write** |
 
 </div>
 
