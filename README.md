@@ -34,7 +34,7 @@ Hey there! I'm **Sag**, a Mexican software engineer passionate about building ro
 
 ## 📝 Writing & Speaking
 
-- ✍️ Read my technical articles on [dev.to](https://dev.to/smmd)
+- ✍️ Read my technical articles on [my github page!](https://smmd.github.io/)
 - 🎤 Speaker at technology events and conferences
 - 🎥 Check out my interviews and talks on [YouTube](https://www.youtube.com/playlist?list=PLri-S6HScAalSV0fDqFIXpfoVs9rEBH3Z)
 
