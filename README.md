@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Sagrario Meneses
 
-### 💻 Senior Software Engineer | 🇲🇽 Mexican | 🚀 Backend Engineering Enthusiast
+### 💻 Senior Software Engineer | 🇲🇽 Mexican | 🚀 AI Systems Engineering Enthusiast
 
 [![Website](https://img.shields.io/badge/Website-sagrar.io-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sagrar.io)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/smmd)
